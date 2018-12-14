@@ -1,10 +1,14 @@
 # Custom Google Search
 
-Simple search app which utilizes google custom search API. Solution is all client sided.
+Simple SPA search app which utilizes google custom search API. Solution is all client sided.
 
 ## Quick start
 
-* Open index.html in your favourite browser.
+* Open index.html from build/ in your favourite browser.
+
+## Development
+
+* Source code is in src/
 
 ## Features
 
